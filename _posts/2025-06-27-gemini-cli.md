@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Belajar Gemini CLI dan Komparasi AI Command Line Tools"
+title: "Ngulik Gemini CLI dan Komparasi AI CLI Lainnya"
 date: 2025-06-27
-categories: [ai, cli]
+categories: [ai]
 tags: [gemini, cli, ai-tools]
 ---
 
@@ -15,6 +15,7 @@ Hari ini saya mencoba **Gemini CLI**, yaitu interface command-line untuk mengaks
 - Performa cepat untuk prototyping
 
 ### 🤝 Dibandingkan dengan AI CLI lain:
+
 | Tool             | Provider  | Kelebihan                                  | Kekurangan                          |
 |------------------|-----------|--------------------------------------------|-------------------------------------|
 | **Gemini CLI**   | Google    | Cepat, native untuk Gemini, support context | Belum banyak plugin & integrasi     |
@@ -22,12 +23,10 @@ Hari ini saya mencoba **Gemini CLI**, yaitu interface command-line untuk mengaks
 | **Ollama**       | Lokal     | Bisa offline, pakai model lokal (llama)     | Butuh resource besar                |
 | **llm (by Simon)**| Open     | Support banyak provider, plugin system      | Setup kompleks, tidak cocok pemula  |
 
----
 
 ### ✍️ Catatan Pribadi:
 Saya suka Gemini CLI karena ringan dan fokus. Tapi untuk eksplorasi plugin atau integrasi kompleks, saya tetap pilih OpenAI CLI.
 
----
 
 ### 📚 Next:
 - Coba chaining antara Gemini CLI dan bash script
