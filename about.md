@@ -25,7 +25,7 @@ and little discoveries I come across while working, building, or just exploring.
 ### Just a heads-up
 
 These notes are personal, unpolished, and sometimes incomplete.  
-They’re not meant to be perfect guides — just snapshots of what I’ve picked up.  
+They’re not meant to be perfect guides just snapshots of what I’ve picked up.  
 Always double-check things if you’re using them for anything serious.
 
 
