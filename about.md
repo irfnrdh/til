@@ -4,31 +4,39 @@ title: About
 permalink: /about/
 ---
 
-## 👋 About This TIL
+### 👋 Hey there!
 
-**TIL (Today I Learned)** is my personal learning log, [@irfnrdh](https://github.com/irfnrdh/til), where I document things I learn each day.  
-All entries are rewritten in my own words, often as a result of hands-on exploration in tech, AI, programming, and other topics I find interesting.
+Welcome to my **Today I Learned (TIL)** journal   
+a space where I write down things I’ve learned, one day at a time.  
+This is a personal learning log by [@irfnrdh](https://github.com/irfnrdh/til), where I try to capture ideas, insights, tools,   
+and little discoveries I come across while working, building, or just exploring.
 
-> Everything is connected.
+> Everything is connected. I’m just following the threads.
 
-## 🎯 Purpose
 
-- Help me retain what I learn
-- Serve as an open reference for others who may need quick insights
-- Build a daily habit of note-taking and sharing
-- Practice *Learning in Public*
+### Why I'm doing this
 
-## 📌 Disclaimer
+- To help myself remember what I learn  
+- To share things that might help someone else  
+- To stay consistent with daily writing  
+- And mostly to learn in public, no pressure
 
-> All notes are written from a personal perspective.  
-> They may not be complete or 100% accurate.  
-> Please refer to official sources if you need more in-depth information.
 
-## 💡 About Me
+### Just a heads-up
 
-- 📍 Based in: Aceh, Indonesia  
-- 🧠 Interests: Web development, AI, cybersecurity, indie hacking  
-- 🛠️ Favorite tools: Linux, CLI, Laravel, Astro, and various AI tools
+These notes are personal, unpolished, and sometimes incomplete.  
+They’re not meant to be perfect guides — just snapshots of what I’ve picked up.  
+Always double-check things if you’re using them for anything serious.
 
-Thanks for stopping by 🙏  
-Feel free to reach out via GitHub or social media if you want to chat, give feedback, or share ideas.
+
+### About me (the person behind all this)
+
+- 📍 I live in Aceh, Indonesia  
+- 🛠️ I love tinkering with web dev, AI tools, indie hacking, and cybersecurity  
+- 🧠 I enjoy making things, breaking things, and figuring out how they work  
+- 🐧 Most of the time, you’ll find me in a terminal or writing something weird
+
+
+Thanks for dropping by 🙏  
+If you’ve got ideas, thoughts, or just wanna say hi   
+feel free to reach out!
