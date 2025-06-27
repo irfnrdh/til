@@ -4,36 +4,31 @@ title: About
 permalink: /about/
 ---
 
-# 👋 About This TIL
+## 👋 About This TIL
 
-**TIL (Today I Learned)** ini adalah catatan harian saya, [@irfnrdh](https://github.com/irfnrdh), tentang berbagai hal yang saya pelajari setiap hari.  
-Semua catatan ditulis ulang dengan bahasa saya sendiri, sering kali sebagai hasil eksplorasi langsung di dunia teknologi, AI, CLI tools, pemrograman, dan topik lainnya yang menarik.
+**TIL (Today I Learned)** is my personal learning log, [@irfnrdh](https://github.com/irfnrdh/til), where I document things I learn each day.  
+All entries are rewritten in my own words, often as a result of hands-on exploration in tech, AI, programming, and other topics I find interesting.
 
----
+> Everything is connected.
 
-## 🎯 Tujuan
+## 🎯 Purpose
 
-- Membantu saya mengingat apa yang saya pelajari
-- Menjadi dokumentasi terbuka untuk orang lain yang mungkin butuh referensi singkat
-- Melatih kebiasaan mencatat dan berbagi pengetahuan setiap hari
-
----
+- Help me retain what I learn
+- Serve as an open reference for others who may need quick insights
+- Build a daily habit of note-taking and sharing
+- Practice *Learning in Public*
 
 ## 📌 Disclaimer
 
-> Semua catatan ditulis dari sudut pandang pribadi.  
-> Bisa jadi tidak lengkap atau tidak akurat 100%.  
-> Silakan cek sumber resmi jika kamu butuh referensi yang lebih dalam.
+> All notes are written from a personal perspective.  
+> They may not be complete or 100% accurate.  
+> Please refer to official sources if you need more in-depth information.
 
----
+## 💡 About Me
 
-## 💡 Tentang Saya
+- 📍 Based in: Aceh, Indonesia  
+- 🧠 Interests: Web development, AI, cybersecurity, indie hacking  
+- 🛠️ Favorite tools: Linux, CLI, Laravel, Astro, and various AI tools
 
-- 📍 Lokasi: Aceh, Indonesia
-- 🧠 Bidang: Web dev, AI, cybersec, indie hacking
-- 🛠️ Tools favorit: Linux, CLI, Laravel, Astro, dan AI tools
-
----
-
-Terima kasih sudah mampir 🙏  
-Kalau ada masukan, ide, atau ingin ngobrol, bisa kontak saya lewat GitHub atau sosial media.
+Thanks for stopping by 🙏  
+Feel free to reach out via GitHub or social media if you want to chat, give feedback, or share ideas.
