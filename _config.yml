@@ -1,4 +1,4 @@
-title: "Today I Learned"
+title: "Ngulikin"
 description: "Catatan harian belajar dari irfnrdh"
-remote_theme: jekyll/minima
+remote_theme: "jekyll/minima@1e8a445"
 show_excerpts: true
