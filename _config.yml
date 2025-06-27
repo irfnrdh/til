@@ -3,58 +3,27 @@ author:
   name: irfnrdh
   email: irfnrdh@gmail.com
 
-# description: "Catatan harian belajar dari irfnrdh"
 description: >
-  Catatan Belajar Irfannur Diah (@irfnrdh)
+  A learning log by Irfannur Diah (@irfnrdh)
 
 remote_theme: "jekyll/minima@1e8a445"
-# theme: minima
 
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# sass:
-  # quiet_deps: true
-  # silence_deprecations: [import]
-
 minima:
-  # Minima skin selection. Available skins are:
-  #   Available skins:
-  #     * classic            Default, light color scheme.
-  #     * dark               Dark variant of the classic skin.
-  #     * auto               Adaptive skin based on the default classic and dark skins.
-  #     * solarized-light    Light variant of solarized color scheme.
-  #     * solarized-dark     Dark variant of solarized color scheme.
-  #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: dark
 
-  # Specific pages for site navigation.
-  #   If you wish to link only specific pages in the site-navigation, use this and list
-  #   the `path` property (as represented via Liquid) of the pages in the order they
-  #   should be rendered.
   nav_pages:
     - about.md
 
-  # Set to `true` to show excerpts on the homepage.
   show_excerpts: true
-  # show_excerpts: false
 
-  # Minima date format.
-  #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
-  #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
-  # date_format: "%b-%d-%Y"
+  # Optional: Customize the date format if needed
+  # date_format: "%b %d, %Y"
 
-  # Social Media Links
-  #   Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
-  #   Entry keys:
-  #     * title    Tooltip rendered on hovering over icon.
-  #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
-  #     * url      Full URL of social profile.
   social_links:
-    - title: TIL 
+    - title: TIL
       icon: github
       url: "https://github.com/irfnrdh/til"
-    # - title: Jekyll at X (formerly Twitter)
-    #   icon: x-twitter
-    #   url: "https://x.com/jekyllrb"
