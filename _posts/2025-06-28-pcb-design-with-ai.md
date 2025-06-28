@@ -7,6 +7,7 @@ tags: [ai-tools, design, hardware]
 ---
 
 Hari ini saya dipertemukan dengan [Flux.AI](https://www.flux.ai/) lewat google saat searching hal lain tetapi menemukan itu. 
+Ohya saya memang mau coba flux.ai untuk image generator tapi baru tau ternyata mereka juga ada untuk PCB Design.
 Seketika saya langsung teringat bahwa saya pernah sekali buat PCB dengan teknik fotocopy lalu di setrika.
 Hanya sebatas itu sampai soldering dan programming. tetapi saya masih penasaran sampai sekarang saya belum bisa Desain PCB-nya.
 
