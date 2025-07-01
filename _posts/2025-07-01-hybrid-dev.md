@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Developer mode Hybrid"
-date: 2025-06-29
+date: 2025-07-01
 categories: [Development]
 tags: [Mobile, Hybrid]
 ---
