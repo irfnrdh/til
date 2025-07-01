@@ -48,3 +48,6 @@ Hari ini saya belajar bagaimana agar tidak didepan laptop lagi atau dekstop dan 
 
 Setelah hampir 3 tahun migrasi ke Linux dengan i3wm supaya lebih fokus dan bekerja walau terkadang belum maksimal.
 
+...
+
+Ada kerjaan yang berkaitan dengan multimedia atau seperti desain grafis yang sampai hari ini masih kendala kalau dikerjakan di mobile walaupun untuk aktivitas yang sederhana photopea, canva dan pixellab
