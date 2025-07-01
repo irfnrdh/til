@@ -31,10 +31,20 @@ ada beberapa alat yang dibutuhkan mungkin,
 3. git server
 4. AI Akun + API credit
 5. Android 
-6. Aplikasi di Android
+6. Koneksi Internet 
+7. Aplikasi di Android
    - Termux
    - Acode
    - PlainApp
    - Obsidian 
    - Termius 
    - AI : Chatgpt, Claude, Gemimi, Manus
+   - Administrasi : Onlyoffice
+
+
+...
+
+Hari ini saya belajar bagaimana agar tidak didepan laptop lagi atau dekstop dan untuk bisa menunjang semua hal itu maka perlu ekosistem apalagi jika hari ini banyak mengurusi kegiatan yang lebih administrasi.
+
+Setelah hampir 3 tahun migrasi ke Linux dengan i3wm supaya lebih fokus dan bekerja walau terkadang belum maksimal.
+
