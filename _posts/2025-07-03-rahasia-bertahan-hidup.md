@@ -33,7 +33,7 @@ Saya juga pernah bertanya pada diri saya sendiri ketika melihat ada seseorang ya
 Nah sampai disitu saya baru menemukan satu hal tentang "Alkimia" yang akhirnya menjadi sesuatu yang masuk akal bagi saya,
 Hubungan alkimia bukan hanya pada zat tetapi pada pembentukan diri yang baru atau proses upgrade diri yang sebelumnya mati dalam kehidupannya dan bisa hidup kembali.
 
-2 hari lalu saya membaca atau saat ini sedang membaca buku "how to respect myself" bahkan sekelas penulis yang dokter saya mengalami kerentanan dalam hidupnya, apalagi manusia yang paling sempurna dimuka bumi pun pernah ada masalah yang jika kita hadapi mungkin kita itu gak akan sanggup.
+2 hari lalu saya membaca atau saat ini sedang membaca buku "how to respect myself" bahkan sekelas penulis yang dokter saja mengalami kerentanan dalam hidupnya, apalagi manusia yang paling sempurna dimuka bumi pun pernah ada masalah yang jika kita hadapi mungkin kita itu gak akan sanggup.
 
 Lalu bagaimana kita bisa bertahan hidup?
 
