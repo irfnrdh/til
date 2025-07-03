@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Rahasia Bangkit Hidup Setelah Mati [Bag 1]"
-date: 2025-07-02
+date: 2025-07-03
 categories: [Self-Development]
 tags: [Indway]
 ---
