@@ -6,7 +6,7 @@ categories: [Self-Development]
 tags: [Indway]
 ---
 
-Sebenarnya ada banyak pelajaran teknikal yang ingin kamu bagikan dan praktis. Tapi aku pikir pengembangan diri jauh lebih penting dari itu.
+Sebenarnya ada banyak pelajaran teknikal yang ingin saya bagikan dan praktis. Tapi saya pikir pengembangan diri jauh lebih penting dari itu.
 
 Ada hal yang kadang membuat kita menyerah, bingung harus mau ngapain, saat kita mulai menyadari ada yang salah apakah itu dari diri kita, dunia kita atau sistem yang kita masuk kedalamnya.
 
