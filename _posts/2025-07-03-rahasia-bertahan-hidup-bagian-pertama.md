@@ -124,6 +124,9 @@ Ada 3 bagian lagi.
 saya akan lanjutkan besok karena saya sangat bersyukur hari ini,
 bisa diberikan pelajaran oleh Allah dan sangat disayangkan jika saya tak bagikan kepada kamu.
 
+> Ohya, pada bagian ini saya melihat sebenarnya masih banyak kurangnya. Sabar itu kalau dijelaskan panjang A-Z dan ini proses belajarnya tapi prakteknya juga. Begitu juga maksiat tadi itu panjang,
+> Ada bagian yang tidak saya sebutkan seperti sabar dalam menghadapi kenyataan yang tidak bisa kita terima yang bukan dari bagian maksiat.
 
+Kamu boleh cari referensi lainnya pada orang yang lebih berhak untuk menjawabnya karena semua tulisan ini terinspirasi dari proses perjalanan hidup saya yang tidak semua bisa saya bagikan dan hanya rahasia ini bagian penting yang perlu kamu ketahui dan Semoga kamu bisa melewatinya. 
 
 
